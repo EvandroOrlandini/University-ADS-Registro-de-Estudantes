@@ -1,0 +1,12 @@
+C:\Users\mathe\source\repos\CRUD HoW IV\obj\Debug\CRUD-HOWIV.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\CRUD HoW IV\obj\Debug\CRUD-HOWIV.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\CRUD HoW IV\obj\Debug\CRUD-HOWIV.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\CRUD HoW IV\obj\Debug\formCRUD.Properties.Resources.resources
+C:\Users\mathe\source\repos\CRUD HoW IV\bin\Debug\formCRUD.exe.config
+C:\Users\mathe\source\repos\CRUD HoW IV\bin\Debug\formCRUD.exe
+C:\Users\mathe\source\repos\CRUD HoW IV\bin\Debug\formCRUD.pdb
+C:\Users\mathe\source\repos\CRUD HoW IV\obj\Debug\formCRUD.exe
+C:\Users\mathe\source\repos\CRUD HoW IV\obj\Debug\formCRUD.pdb
+C:\Users\mathe\source\repos\CRUD HoW IV\obj\Debug\formCRUD.FormEstudante.resources
+C:\Users\mathe\source\repos\CRUD HoW IV\obj\Debug\formCRUD.formBemVindos.resources
+C:\Users\mathe\source\repos\CRUD HoW IV\obj\Debug\formCRUD.formAlunos.resources

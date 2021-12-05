@@ -1,0 +1,9 @@
+C:\Users\mathe\source\repos\CRUD HoW IV\bin\Debug\exemplo-CRUD.exe.config
+C:\Users\mathe\source\repos\CRUD HoW IV\bin\Debug\exemplo-CRUD.exe
+C:\Users\mathe\source\repos\CRUD HoW IV\bin\Debug\exemplo-CRUD.pdb
+C:\Users\mathe\source\repos\CRUD HoW IV\obj\Debug\exemplo-CRUD.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\CRUD HoW IV\obj\Debug\exemplo_CRUD.Properties.Resources.resources
+C:\Users\mathe\source\repos\CRUD HoW IV\obj\Debug\exemplo-CRUD.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\CRUD HoW IV\obj\Debug\exemplo-CRUD.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\CRUD HoW IV\obj\Debug\exemplo-CRUD.exe
+C:\Users\mathe\source\repos\CRUD HoW IV\obj\Debug\exemplo-CRUD.pdb
