@@ -5,7 +5,6 @@
   <li><a href="#projeto">💻 Projeto</a></li>
   <li><a href="#tecnologias">🚀 Tecnologias</a></li>
   <li><a href="#layout">🔖 Layout</a></li>
-  <li><a href="#codigo"> 📑 Código</a></li>
   <li><a href="#devs">👩‍💻 Devs</a></li>
 </ul>
 
