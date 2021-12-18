@@ -3,7 +3,6 @@
 
 ## Seções do README
 
-
 <ul>
   <li><a href="#projeto">💻 Projeto</a></li>
   <li><a href="#tecnologias">🚀 Tecnologias</a></li>
@@ -11,9 +10,7 @@
   <li><a href="#devs">👩‍💻 Devs</a></li>
 </ul>
 
-
 ## <a id="projeto">💻 Projeto</a>
-
 
 <p align="justify">
   Olá, esse projeto foi feito para a matéria de Hands on Work IV do curso Análise e Desenvolvimento de Sistemas<br>
